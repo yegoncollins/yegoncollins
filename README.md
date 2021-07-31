@@ -24,6 +24,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -31,7 +32,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
-  ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans-ide&logoColor=2C2255)
+  ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
