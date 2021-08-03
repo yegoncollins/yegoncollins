@@ -33,7 +33,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
-  ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
