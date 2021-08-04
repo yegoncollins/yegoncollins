@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Bachelor of Computer Science at Kabarak University.
-- 💼 &nbsp; Working as a Developer at Willpisa Internet Solutions.
+- 💼 &nbsp; Working as a Developer at Willpisa Internet.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design.
 
