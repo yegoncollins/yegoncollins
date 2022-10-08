@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Yegon.</h2>
+<h2> Hey there! I'm yegoncollins.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
