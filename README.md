@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software to provide solutions and quick hacks.
 - 🎓 &nbsp; Completed Bachelor of Computer Science at Kabarak University.
-- 💼 &nbsp; Working as a Software Developer at Advatech Office Supplies limited.
+- 💼 &nbsp; Working as a Freelance Software Developer.
 - 🌱 &nbsp; Learning more about Web Development, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing UI/UX Design.
 
