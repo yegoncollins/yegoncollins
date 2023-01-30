@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Completed Bachelor of Computer Science at Kabarak University.
 - 💼 &nbsp; Working as a Freelance Software Developer.
 - 🌱 &nbsp; Learning more about Web Development, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing UI/UX Design.
+- ✍️ &nbsp; 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -50,4 +50,4 @@
 <a href="mailto:collinsyegon816@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-collinsyegon816@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [yegoncollins236](https://github.com/collinsyegon236)
+⭐️ From [yegoncollins](https://github.com/yegoncollins)
