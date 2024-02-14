@@ -4,9 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software to provide solutions and quick hacks.
-- 🎓 &nbsp; Completed Bachelor of Computer Science at Kabarak University.
-- 💼 &nbsp; Working as a Freelance Software Developer.
-- 🌱 &nbsp; Learning more about Web Development, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Software Developer.
+- 🌱 &nbsp; Learning more about Web Development, Systems Design, and Databases
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -44,8 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://collins-yegon.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.collinsyegon.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/yegon-collins-9018a9178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-collins_yegon-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/yegoncollins22"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-collins_yegon-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/yegon-collins"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-collins_yegon-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:collinsyegon816@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-collinsyegon816@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
