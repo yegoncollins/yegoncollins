@@ -35,6 +35,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Intellij](https://img.shields.io/badge/-intellij-0A1A2F?style=flat&logo=intellij&logoColor=007ACC)
+  ![Datagrip](https://img.shields.io/badge/-datagrip-0A1A2F?style=flat&logo=datagripj&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
@@ -48,22 +49,19 @@ I'm a software developer, specializing in building exceptional websites and mobi
 <details>
 <summary>Related to Backend Development</summary>
 
-* [How to Build an SMS Reminder App using Nodejs, Twilio, and Flybase](https://tealfeed.com/build-sms-reminder-app-using-nodejs-h4hs6)
-* [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
-* [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
-* [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
-* [Set up a Node.js App with ESLint and Prettier](https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p)
-* [Build a Real-Time Chat App using Node.js and WebSocket](https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g)
+* [7 Best Tools for Monitoring Node.js Servers]
+* [7 Best Node.js Logging Libraries for Your Next Projects]
+* [Build a Real-Time Chat App using Node.js and WebSocket]
 
 </details>
 
 <details>
 <summary> Frontend Development with React:</summary>
 
-* [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
-* [Scalable and Maintainable React Project Structure Every Developer Should Use](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)
-* [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
-* [7 Tools for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
+* [Build a ToDo App With React and Firebase]
+* [Scalable and Maintainable React Project Structure Every Developer Should Use]
+* [VS Code Extensions You Should Use As a React Developer]
+* [7 Tools for Faster Development in React]
 
 </details>
 
@@ -71,6 +69,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 <h3>Contact Me</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thomas-sentre-20035b1b7/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:thomassentre332@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/thomasdevs)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yegoncollins/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:collinsyegon816@gmail.com)
+
