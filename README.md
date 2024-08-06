@@ -7,11 +7,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 ✨ Full Stack Developer
 
-✨ Cloud Developer
-
-✨ Enjoys writing tutorials for developers.
-
-✨ Enjoys building apps in frameworks like React and React Native Also into building APIs using REST.
+✨ Enjoys building apps and building web applications  in Flutter and frameworks like React and React Native Also into building RestAPIs.
 
 <hr>
 
@@ -43,27 +39,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br/>
-
-<h3>Blog Posts</h3>
-
-<details>
-<summary>Related to Backend Development</summary>
-
-* [7 Best Tools for Monitoring Node.js Servers]
-* [7 Best Node.js Logging Libraries for Your Next Projects]
-* [Build a Real-Time Chat App using Node.js and WebSocket]
-
-</details>
-
-<details>
-<summary> Frontend Development with React:</summary>
-
-* [Build a ToDo App With React and Firebase]
-* [Scalable and Maintainable React Project Structure Every Developer Should Use]
-* [VS Code Extensions You Should Use As a React Developer]
-* [7 Tools for Faster Development in React]
-
-</details>
 
 <hr>
 
